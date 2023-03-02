@@ -1,4 +1,4 @@
-# Applications
+# Third-party applications
 
 
 
